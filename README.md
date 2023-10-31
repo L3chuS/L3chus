@@ -1,6 +1,6 @@
 # Hola, soy Esteban Santos Mendoza!!  
 
-![Imágen ilustrativa del juego.](./Perfil.png)  
+![Imágen ilustrativa del juego.](./Perfil2.png)  
 
 ##
 
