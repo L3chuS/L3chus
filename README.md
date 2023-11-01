@@ -32,4 +32,4 @@ Desde octubre del 2017 a Diciembre del 2018 trabajé para la empresa Versia Serv
 * Inglés: B2/C1. He finalizado un intensivo nivel VI en el Instituto ICANA en Argentina alcanzando un nivel equivalente al exámen internacional TOEFL o First Certificate.  
 
 
-#### En mi perfil de GitHub tienes más información sobre mi. Saludos!
+#### Te invito a que veas mis repositorios y conozcas un poco mas sobre mis conocimientos. Saludos!
