@@ -6,7 +6,7 @@ Llevo mas de un año formándome como programador en Python. He realizado cursos
 
 En la actualidad estoy trabajando de manera freelance en el desarollo de una App que permite crear distintas alertas para efectuar descansos mientras uno está trabajando. 
 
-## Trabajos
+## Trabajos  
 
 Desde marzo del 2019 a la actualidad trabajo para la empresa Field Delivery Spain (FDS). Aquí realizo un soporte Nivel 1 y tareas Nivel 2 para las empresas Berge, Puig, Cellnex y Seur (en distintas etapas).
 
@@ -16,11 +16,20 @@ Desde octubre del 2017 a Diciembre del 2018 trabajé para la empresa Versia Serv
   
 -Funciones: Montaje y configuración del servidor (Linux + Windows 7 u 10 virtualizado), programación del sistema de cajas desde Linux (Centos 7), configuración de usuarios de tienda y admistradores en Windows, bloqueos firewall, poner en dominio, configuración de Ip y DNS, configuración y montaje de dispositivos (cajas, impresoras, ordenadores alternativos, relojes de fichar, balanzas, pantallas, entre otros), configuración de antenas WiFi, cableado  general y montaje en racks. Soporte in situ o vía telefónica, resolución de incidencias físicas o de sistemas de lo montado previamente (cambios de equipos, reparación ó reconfiguración).
 
-## Cursos
+## Cursos  
 
 * Curso Fundamentos de programación en Python - Curso oficial PCAP del Python Institute. Modalidad Virtual. Desarrollado por PUE S.L.
 * Curso Maestro de Python: De Cero a Programador Todoterreno. Modalidad Online. Plataforma Udemy.
 
-##  
+## Tecnologías  
+
+* Programación: Python - OOO - Mysql - Tkinter - Customtkinter - Git - GitHub -  CMD - Subprocess.
+* Sistemas: Internet (Explorer – Chrome – Mozilla) - Operador de PC Avanzado – Sistemas Operativos (Windows 7 y 10 - Linux – Centos 7) - Hardware (HDD – NAS – SSD – Intel – AMD – Nvidia – Memorias Ram - Torres – Portátiles - Fuentes – Periféricos - Impresoras) - Servidores – SAI - Cámaras de seguridad - Sistemas de alarmas - Redes - Tendido y armado de cables - Routers – Switches – Antenas WiFi - Dominios - DNS - Firewall Windows - Citrix - SAP - Forticlient - Logmein.
+* Diseño: Adobe Audition - Adobe Encore - Adobe Photoshop - Adobe Premiere – Adobe Lightroom - Adobe After Effects - Autodesk 3DSMax.  
+
+## Idiomas  
+
+* Inglés: B2/C1. He finalizado un intensivo nivel VI en el Instituto ICANA en Argentina alcanzando un nivel equivalente al exámen internacional TOEFL o First Certificate.  
+
 
 #### En mi perfil de GitHub tienes más información sobre mi. Saludos!
