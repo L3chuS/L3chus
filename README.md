@@ -2,7 +2,7 @@
 
 Soy informático que trabaja hace 5 años en el mundo del soporte técnico. Actualmente me estoy formando como desarrollador en Python.
 
-Llevo mas de un año formándome como programador en Python. He realizado cursos tanto online como virtuales en donde he aprendido los conceptos más importantes de este lengüaje para poder comprender la programación orientada a objetos. 
+Llevo mas de un año formándome como programador en Python. He realizado cursos tanto online como virtuales en donde he aprendido los conceptos más importantes de este lenguaje para poder comprender la programación orientada a objetos. 
 
 En la actualidad estoy trabajando de manera freelance en el desarollo de una App que permite crear distintas alertas para efectuar descansos mientras uno está trabajando. 
 
