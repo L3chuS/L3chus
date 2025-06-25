@@ -1,10 +1,10 @@
 # ![Imágen ilustrativa del juego.](./Perfil_Emoji.png) Hola, soy Esteban Santos Mendoza!! 👋 
 
-Soy informático que trabaja hace 5 años en el mundo del soporte técnico. Actualmente me estoy formando como desarrollador en Python.
+Soy informático que trabaja hace 6 años en el mundo del soporte técnico. Actualmente me estoy formando como desarrollador en Python y estudiando un grado superior en el IOC (Institut Obert de Catalunya) en Desarrollo de Aplicaciones Web.
 
-Llevo mas de un año formándome como programador en Python. He realizado cursos tanto online como virtuales en donde he aprendido los conceptos más importantes de este lenguaje para poder comprender la programación orientada a objetos. 
+Llevo mas de un año formándome como programador en Python. He realizado cursos tanto online como virtuales en donde he aprendido los conceptos más importantes de este lengüaje para poder comprender la programación orientada a objetos. 
 
-En la actualidad estoy trabajando de manera freelance en el desarrollo de una App que permite crear distintas alertas para efectuar descansos mientras uno está trabajando. 
+En la actualidad estoy trabajando de manera freelance en el desarollo de una App que permite crear distintas alertas para efectuar descansos mientras uno está trabajando. 
 
 ## Trabajos  
 
@@ -15,6 +15,10 @@ Desde marzo del 2019 a la actualidad trabajo para la empresa Field Delivery Spai
 Desde octubre del 2017 a Diciembre del 2018 trabajé para la empresa Versia Servicios Distribuidos T.I. Allí, formé parte de un proyecto de renovación del sistema informático de todas las tiendas Caprabo ubicadas en Catalunya.
   
 -Funciones: Montaje y configuración del servidor (Linux + Windows 7 u 10 virtualizado), programación del sistema de cajas desde Linux (Centos 7), configuración de usuarios de tienda y admistradores en Windows, bloqueos firewall, poner en dominio, configuración de Ip y DNS, configuración y montaje de dispositivos (cajas, impresoras, ordenadores alternativos, relojes de fichar, balanzas, pantallas, entre otros), configuración de antenas WiFi, cableado  general y montaje en racks. Soporte in situ o vía telefónica, resolución de incidencias físicas o de sistemas de lo montado previamente (cambios de equipos, reparación ó reconfiguración).
+
+## Educación
+
+* Grado Superior en Desarrollo de Aplicaciones Web en el IOC (Institut Obert de Catalunya) - Inicio 09/24 - En progreso.
 
 ## Cursos  
 
