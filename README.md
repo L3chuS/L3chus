@@ -6,7 +6,7 @@
 
 🖥️ Proyecto propio en Python: aplicación de automatización para la gestión de descansos laborales con interfaces gráficas (CustomTkinter) y persistencia de datos (disponible en GitHub: https://github.com/L3chuS/Relaxapp)
 
-🐧 Sólida base en entornos Linux, con certificación LPIC-101, scripting básico, administración de sistemas y experiencia real con CentOS 7 en entornos productivos.
+🐧 Sólida base en entornos Linux, con certificación LPIC-101, scripting básico, administración de sistemas y experiencia con CentOS 7 en entornos productivos.
 
 🧠 Más de 6 años de experiencia en IT / Helpdesk N1–N2, aportando visión de infraestructura, usuarios y procesos: Active Directory, Exchange (On-Premise y O365), redes, Windows y Linux.
 
