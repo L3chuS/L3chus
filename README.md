@@ -1,10 +1,16 @@
 # ![Imágen ilustrativa del juego.](./Perfil_Emoji.png) Hola, soy Esteban Santos Mendoza!! 👋 
 
-Soy informático que trabaja hace 6 años en el mundo del soporte técnico. Actualmente me estoy formando como desarrollador en Python y estudiando un grado superior en el IOC (Institut Obert de Catalunya) en Desarrollo de Aplicaciones Web.
+🐍 Python Developer, finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW), con enfoque en lógica backend, automatización de procesos y buenas prácticas de programación.
 
-Llevo más de dos años formándome como programador en Python. He realizado cursos tanto online como virtuales en donde he aprendido los conceptos más importantes de este lengüaje para poder comprender la programación orientada a objetos. 
+⚙️ Experiencia práctica en Python desarrollando aplicaciones que integran MySQL (Railway), programación orientada a objetos (OOP), manejo de datos y control de versiones con Git/GitHub.
 
-En la actualidad estoy trabajando de manera freelance en el desarollo de una App que permite crear distintas alertas para efectuar descansos mientras uno está trabajando. 
+🖥️ Proyecto propio en Python: aplicación de automatización para la gestión de descansos laborales con interfaces gráficas (CustomTkinter) y persistencia de datos (disponible en GitHub: https://github.com/L3chuS/Relaxapp)
+
+🐧 Sólida base en entornos Linux, con certificación LPIC-101, scripting básico, administración de sistemas y experiencia real con CentOS 7 en entornos productivos.
+
+🧠 Más de 6 años de experiencia en IT / Helpdesk N1–N2, aportando visión de infraestructura, usuarios y procesos: Active Directory, Exchange (On-Premise y O365), redes, Windows y Linux.
+
+🚀 Perfil proactivo y autodidacta, con alta capacidad de aprendizaje, adaptación a entornos de presión, y motivación por crecer como Python Backend / Automation Developer.
 
 ## Trabajos  
 
